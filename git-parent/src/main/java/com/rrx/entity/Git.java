@@ -5,4 +5,8 @@ public class Git {
 		System.out.println("linux update");
 		
 	}
+
+	public static void windows(){
+		int a = 0;
+	}
 }
