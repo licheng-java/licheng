@@ -6,4 +6,8 @@ public class GitAdd {
 		int b = 1;
 		System.out.println(a+b);
 	}
+
+	public void dance(){
+		Syetem.out.pringln("danceing!!!!");
+	}
 }
