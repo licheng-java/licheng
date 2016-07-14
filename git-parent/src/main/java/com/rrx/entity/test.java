@@ -5,4 +5,8 @@ class test{
  	System.out.println("test2");
  }
 
+ public static void say(){
+ 	System.out.pringln("say method");
+ }
+
 }
